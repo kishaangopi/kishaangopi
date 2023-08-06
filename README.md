@@ -1,10 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gopikishaan
+Hey there !❤️‍🔥 
 ===================================================================================================================================
 
 Full Stack Developer
 --------------------
 
-* ✉️  You can contact me at [kishaangopi@gmail.com](mailto:kishaangopi@gmail.com)
+* 💻  I am currently pursuing my Bachelor's in CSC in Amrita Vishwa Vidhyapeetam
+* 😁  I enjoy discovering new technologies and am currently in the process of learning about ML.
+* 🏍️  "Life is a thrilling ride, and a motorcycle takes us on the journey of freedom, adrenaline, and pure passion"
+* ✉️   Contact me at [kishaangopi@gmail.com](mailto:kishaangopi@gmail.com)
+
 
 ### Skills
 
@@ -40,3 +44,4 @@ Full Stack Developer
 <a href="http://www.github.com/kishaangopi"><img src="https://github-readme-stats.vercel.app/api?username=kishaangopi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kishaangopi's GitHub stats" /></a>
 
 <a href="https://github.com/kishaangopi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaangopi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
